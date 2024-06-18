@@ -9,7 +9,7 @@ minify file.js | pbcopy
 
 ## Bookmarklets
 
-- [Copy link as Markdown](markdown_link.js)
+- [Copy link as Markdown](markdown_link.js), [min](markdown_link.min.js)
 - Tidy URL, [min](tidy_url.min.js)
 
 ## Useful links
